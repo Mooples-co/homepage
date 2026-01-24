@@ -1,19 +1,19 @@
 ---
 ---
 
-// Colors
-$primary: #008080;
-$primary-dark: #006666;
-$secondary: #f88379;
-$black: #2f2f41;
+// Colors - Mooples Brand Identity
+$primary: #00AEAD;            // 메인 컬러 (Teal)
+$primary-dark: #008B8A;       // 버튼 호버 및 강조용 (약간 더 진하게)
+$secondary: #4DBFC0;          // 보조 강조색 (연한 청록)
+$black: #1A202C;              // 텍스트용 (세련된 다크 그레이)
 $white: #ffffff;
-$white-offset: #f0f4f4;
-$steel: #5c5a5a;
+$white-offset: #F4F9F9;       // 배경색 (기존 분홍빛에서 청록색과 어울리는 쿨톤으로 변경)
+$steel: #718096;              // 보조 텍스트/아이콘용 회색
 
 // Links
 $link-color: $primary;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: $primary-dark; // lighten 대신 정의한 진한 색상 사용 권장
 $link-hover-decoration: underline;
 
 // Fonts
@@ -21,7 +21,7 @@ $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: "Helvetica Neue", Arial, sans-serif;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: $black;
 $footer-text-color: $white;
 $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
