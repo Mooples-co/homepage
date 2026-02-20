@@ -1,12 +1,12 @@
 ---
 layout: service
-title: "Mooples Safety"
+title: "Mooples Safety: 스마트 산업 안전 솔루션"
 intro: "단 한 명의 낙오자 없는 안전한 현장. 자가발전 기술로 구현한 '유지보수 제로' 스마트 안전 솔루션을 만나보세요."
 featured_image: "images/services/mooples-safety-detail.jpg"
 weight: 5
 ---
 
-스마트 산업 안전 솔루션
+스마트 산업 안전 솔루션.
 낙오자 없는 안전한 현장. 자가발전 기술로 구현한 '유지보수 제로' 스마트 안전 솔루션을 만나보세요
 
 ## 1. 배터리 관리의 한계를 넘은 'Zero-Maintenance'
