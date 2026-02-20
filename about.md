@@ -6,7 +6,7 @@ featured_image: "images/about-main.jpg"
 ---
 
 ## 1. Brand Story
-Mooples(무플스)는 '무한한(Moo)'과 '사람들(Peoples)'을 결합한 이름입니다. 
+Mooples(무플스)는 '무한'과 '사람들(Peoples)'을 결합한 이름입니다. 
 우리는 인간의 가장 기본적이면서도 위대한 에너지인 '발걸음'에 주목합니다. 기술이 사람의 행동을 바꾸는 것이 아니라, 사람의 평범한 일상이 세상을 바꾸는 동력이 되는 미래를 만듭니다.
 
 ## 2. Our Expertise
