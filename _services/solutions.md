@@ -3,8 +3,10 @@ layout: service
 title: "솔루션: 데이터로 연결된 무한한 안전"
 intro: "무플스의 자가발전 인솔은 단순한 하드웨어를 넘어, 사람과 데이터를 연결하는 지능형 안전 플랫폼입니다."
 featured_image: "images/solution-main.jpg"
-weight: 2
+weight: 3
 ---
+
+무플스의 자가발전 인솔은 단순한 하드웨어를 넘어, 사람과 데이터를 연결하는 지능형 안전 플랫폼입니다
 
 ## 1. 치매 환자 실종 방지 솔루션 (Silver Care)
 가장 따뜻한 기술로 가족의 일상을 지킵니다.
