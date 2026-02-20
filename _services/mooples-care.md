@@ -6,7 +6,7 @@ featured_image: "images/services/mooples-care-detail.jpg"
 weight: 4
 ---
 
-치매 환자 배회 감지 솔루션
+치매 환자 배회 감지 솔루션.
 가장 익숙한 신발 속에 담긴 가장 앞선 안전하고 충전 걱정 없는 '인비저블 케어'로 소중한 가족의 일상을 지킵니다
 
 ## 1. 충전의 번거로움이 없는 '인비저블 케어'
