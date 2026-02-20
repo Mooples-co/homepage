@@ -1,16 +1,19 @@
 main:
-  - name: "무플스"
-    url: "/mooples/"
+  - name: "홈"
+    url: "/"
+    weight: 1
+  - name: "기술소개"
+    url: "/services/"
     weight: 2
-  - name: "Mooples Care"
-    url: "/mooples-care/"
+  - name: "솔루션"
+    url: "/solutions/"
     weight: 3
-  - name: "Mooples Safety"
-    url: "/mooples-safety/"
+  - name: "About"
+    url: "/about/"
     weight: 4
-  - name: "Technology"
-    url: "/technology/"
-    weight: 5
+  - name: "KR/EN/JP"
+    url: "#"
+    weight: 10
 
 footer:
   - name: "Home"
