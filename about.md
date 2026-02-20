@@ -1,87 +1,40 @@
 ---
-title: About
 layout: page
-description: About
-bodyClass: page-about
+title: "About Mooples"
+intro: "무플스는 움직임의 가치를 데이터로 바꾸는 딥테크 기업입니다."
+featured_image: "images/about-main.jpg"
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## 1. Brand Story
+**Mooples(무플스)**는 '무한한(Moo)'과 '사람들(Peoples)'을 결합한 이름입니다. 
+우리는 인간의 가장 기본적이면서도 위대한 에너지인 '발걸음'에 주목합니다. 기술이 사람의 행동을 바꾸는 것이 아니라, 사람의 평범한 일상이 세상을 바꾸는 동력이 되는 미래를 만듭니다.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+## 2. Our Expertise
+무플스는 지난 8년간 자동차 산업과 정밀 기계 공학 분야에서 축적된 독보적인 기술력을 바탕으로 성장해 왔습니다.
+- **Automotive DNA:** 글로벌 완성차 R&D 센터 출신의 엔지니어링 역량을 바탕으로 한 높은 수준의 제품 신뢰성.
+- **Deep Tech Roots:** 기계공학 박사급 전문 인력을 통한 차세대 압전 에너지 하베스팅 원천 기술 보유.
+- **Proven History:** 8년 이상의 안정적인 기업 운영을 통해 검증된 비즈니스 실행력과 파트너십.
 
-# Objectives
+## 3. The Mission
+우리는 웨어러블 기기의 한계인 '충전'과 '배터리'로부터 사용자를 자유롭게 합니다.
+- **지속 가능성:** 배터리 사용을 최소화하여 환경 부하를 줄이는 ESG 기술 구현.
+- **사회적 안전망:** 치매 환자, 산업 현장 근로자 등 사회적 보호가 필요한 이들을 위한 중단 없는(Zero-Gap) 안전 솔루션 제공.
+- **글로벌 파트너십:** 국내를 넘어 일본 등 글로벌 대기업과의 기술 협력을 통해 세계 시장으로 뻗어 나가는 대한민국 기술 스타트업.
 
-Financial accounting and financial reporting are often used as synonyms.
+## 4. Milestone
+- 2017년: 무플스 설립 및 기술 연구소 개설
+- 자동차 부품 핸들링 사업 및 정밀 제어 시스템 개발 (연 매출 9억 원 달성)
+- 차세대 자가발전 스마트 인솔 원천 기술 개발 및 특허 확보
+- 현재: 글로벌 벤처캐피털(VC) 투자 유치 및 일본 대기업 파트너십 추진 중
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
-## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
-## Enhancing Qualitative Characteristics
 
-### Verifiability
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 
-### Comparability
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
