@@ -1,3 +1,19 @@
+'
+---
+title: Services
+layout: services
+description: Services
+intro_image: "images/illustrations/reading.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+---
+
+# Services that grow with your business
+
+Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+'
+
+
 ---
 layout: service
 title: "기술 & 솔루션"
@@ -29,7 +45,7 @@ intro_image_hide_on_mobile: true
 ---
 
 ## 파트너십 및 기술 협력
-무플스는 국내외 지자체, 공공기관, 그리고 글로벌 기업(Sumitomo, Dexerials 등)과의 긴밀한 협력을 통해 기술의 완성도를 높여가고 있습니다. 
+무플스는 국내외 지자체, 공공기관, 그리고 글로벌 기업과의 긴밀한 협력을 통해 기술의 완성도를 높여가고 있습니다. 
 
 > **"무플스의 기술은 당신이 걷는 모든 순간, 함께합니다."**
 > 비즈니스 협력 및 솔루션 도입 문의는 [Contact](/contact/) 페이지를 통해 언제든 연락 주시기 바랍니다.
