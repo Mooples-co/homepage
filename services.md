@@ -1,6 +1,5 @@
-
 ---
-layout: services
+layout: service
 title: "기술 & 솔루션"
 intro: "무플스는 자가발전 기술을 통해 배터리의 한계를 넘어, 세상을 더 안전하고 스마트하게 연결합니다."
 featured_image: "images/services-main.jpg"
