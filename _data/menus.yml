@@ -2,18 +2,24 @@ main:
   - name: "홈"
     url: "/"
     weight: 1
-  - name: "기술소개"
-    url: "/services/"
+  - name: "핵심기술"
+    url: "/technology/"
     weight: 2
   - name: "솔루션"
     url: "/solutions/"
     weight: 3
-  - name: "About"
+  - name: "회사소개"
     url: "/about/"
     weight: 4
-  - name: "KR/EN/JP"
-    url: "#"
-    weight: 10
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+  - name: "JP"
+    url: "/jp/"
+    weight: 6
+  - name: "EN"
+    url: "/en/"
+    weight: 7
 
 footer:
   - name: "Home"
