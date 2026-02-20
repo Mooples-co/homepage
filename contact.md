@@ -1,16 +1,33 @@
 ---
-title: Contact
-layout: contact
-description: Contact
+layout: page
+title: "Contact"
+intro: "무플스의 기술과 비전에 대한 문의를 기다립니다."
+featured_image: "images/contact-main.jpg"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## 협업 및 투자 문의
+무플스는 압전 에너지 하베스팅 기술을 통해 세상을 더 안전하게 바꿀 파트너를 찾고 있습니다. 
+VC 투자, 기술 제휴, 해외 시장 진출 등 다양한 협업 제안을 환영합니다.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+### ✉️ Email
+- **General & Business:** [sales@mooples.com](mailto:sales@mooples.com)
+- *모든 문의는 대표이사가 직접 확인합니다.*
+
+### 📍 Office
+- **주소:** 서울시 강남구 강남대로 584, 6층 6383호(논현동,성일빌딩) 
+  
+---
+
+## 찾아오시는 길
+무플스는 서울 강남구 성일빌딩에 위치하고 있으며, 기술 연구 및 비즈니스 미팅을 위한 열린 공간을 운영하고 있습니다.
+
+> **교통편 안내:**
+> - 지하철 3호선/신분당선 신사역, 7호선/신분당선 논현역 인근
+
+---
+
+## 비즈니스 파트너십 (Partnership)
+우리는 특히 다음과 같은 분야의 파트너십에 집중하고 있습니다:
+- **Silver Care:** 지자체 및 의료기관용 치매 배회 감지 솔루션 도입
+- **Industrial Safety:** 건설 및 제조 현장 근로자 안전 관리 시스템 협업
+- **Global Expansion:** 대기업과의 기술 라이선싱 및 유통 협력
