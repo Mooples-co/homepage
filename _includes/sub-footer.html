@@ -3,12 +3,16 @@
     <div class="row">
       <div class="col-12">
         <div class="sub-footer-inner">
-          {% if site.data.social %}
-            {% include social.html %}
-          {% endif %}
-          {% if site.data.seo.copyright_text %}
-          <div class="copyright">{{ site.data.seo.copyright_text }}</div>
-          {% endif %}
+          <div class="copyright">
+            <span>© 2026 Mooples Co. All rights reserved.</span>
+          </div>
+          
+          <div class="sub-footer-menu">
+            <ul>
+              <li><a href="/contact/">문의하기</a></li>
+              <li><a href="/privacy-policy/">개인정보처리방침</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
