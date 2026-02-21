@@ -4,6 +4,7 @@ title: "お問い合わせ (Contact)"
 intro: "ムープルズの技術とビジョンに関するお問い合わせをお待ちしております。"
 featured_image: "images/contact-main.jpg"
 permalink: /jp/contact/
+menu: main_jp
 ---
 
 ## 協業および投資に関するお問い合わせ
