@@ -16,7 +16,7 @@ weight: 2
 - **에너지 추출:** 미세한 압력 변화를 감지하여 고효율로 전기를 생산하는 독자적인 회로 정류 기술.
 
 <br>
-![핵심기술](/images/illustrations/coretech1.jpg)
+![핵심기술]({{ site.baseurl }}/images/illustrations/coretech1.jpg)
 <br>
 
 ## 전력 관리 기술 (PMIC)
@@ -31,7 +31,7 @@ weight: 2
 - **실시간 트래킹:** 사용자의 발걸음 수에 따라 데이터 전송 강도를 조절하는 지능형 알고리즘 탑재.
 
 <br>
-![핵심기술](/images/illustrations/coretech2.jpg)
+![핵심기술]({{ site.baseurl }}/images/illustrations/coretech2.jpg)
 <br>
 
 ## 품질 및 신뢰성 (Reliability)
