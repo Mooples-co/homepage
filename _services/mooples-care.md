@@ -26,7 +26,7 @@ weight: 4
 - **골든타임 확보:** 사고 발생 시 즉각적인 위치 파악으로 구조를 위한 결정적인 시간을 확보합니다.
 
 <br>
-![무플스케어](/images/illustrations/care2.jpg)
+![무플스케어](images/illustrations/care2.jpg)
 <br>
 
 ## 보행 데이터 기반의 헬스케어 확장
