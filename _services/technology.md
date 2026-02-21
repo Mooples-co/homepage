@@ -15,7 +15,7 @@ weight: 1
 웨어러블 기기의 최대 약점인 **'배터리 관리'** 문제를 근본적으로 해결합니다. 무플스의 스마트 인솔은 사용자가 걷는 행위 그 자체에서 에너지를 얻습니다. 치매 환자나 현장 근로자가 '충전을 깜빡해서' 발생하는 안전의 공백을 완벽하게 메웁니다.
 
 <br>
-![스마트인솔](/images/illustrations/smartinsole2.jpg)
+![스마트인솔]({{ site.baseurl }}/images/illustrations/smartinsole2.jpg)
 <br>
 
 ## 고효율 압전 에너지 하베스팅
@@ -25,7 +25,7 @@ weight: 1
 - **압도적 효율:** 미세한 압력 변화에서도 전력을 생성하는 독자적인 회로 설계 기술
 
 <br>
-![스마트인솔](/images/illustrations/smartinsole1.jpg)
+![스마트인솔]({{ site.baseurl }}/images/illustrations/smartinsole1.jpg)
 <br>
 
 ## 초저전력 NB-IoT 통신
@@ -34,7 +34,7 @@ weight: 1
 - **Intelligent PMIC:** 생산된 에너지를 저장하고 데이터 전송에 최적화하여 분배하는 지능형 전력 관리
 
 <br>
-![스마트인솔](/images/illustrations/smartinsole3.jpg)
+![스마트인솔]({{ site.baseurl }}/images/illustrations/smartinsole3.jpg)
 <br>
 
 ## 끊임없는 확장
