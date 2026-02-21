@@ -4,6 +4,7 @@ title: "ムープルズについて (About Mooples)"
 intro: "ムープルズは、動きの価値をデータへと変えるディープテック企業です。"
 featured_image: "images/about-main.jpg"
 permalink: /jp/about/
+menu: main_jp
 ---
 
 > **ムープルズは、動きの価値をデータへと変えるディープテック企業です。**
