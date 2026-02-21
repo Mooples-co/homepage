@@ -1,3 +1,4 @@
+# 한국어 메뉴 (기본)
 main:
   - name: "홈"
     url: "/"
@@ -11,12 +12,27 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 4
-  - name: "JP"
+  - name: "🌐 JP"
     url: "/jp/"
     weight: 5
-  - name: "EN"
-    url: "/en/"
-    weight: 6
+
+# 일본어 메뉴 (일본어 페이지 전용)
+main_jp:
+  - name: "ホーム"
+    url: "/jp/"
+    weight: 1
+  - name: "技術＆製品"
+    url: "/jp/services/"
+    weight: 2
+  - name: "会社紹介"
+    url: "/jp/about/"
+    weight: 3
+  - name: "お問い合わせ"
+    url: "/jp/contact/"
+    weight: 4
+  - name: "🌐 KR"
+    url: "/"
+    weight: 5
 
 footer:
   - name: "Home"
