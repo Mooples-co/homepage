@@ -17,7 +17,7 @@ weight: 3
 - **안심 구역 설정:** 환자가 지정된 구역을 벗어날 경우 보호자에게 즉시 알림을 전송하여 사고를 미연에 방지합니다.
 
 <br>
-![솔루션](/images/illustrations/solution1.jpg)
+![솔루션]({{ site.baseurl }}/images/illustrations/solution1.jpg)
 <br>
 
 ## 스마트 건설 및 산업 안전 (Smart Factory)
@@ -27,7 +27,7 @@ weight: 3
 - **ESG 경영 실천:** 배터리 사용을 최소화하여 폐배터리 배출을 줄이는 친환경 현장 구축을 돕습니다.
 
 <br>
-![솔루션](/images/illustrations/solution2.jpg)
+![솔루션]({{ site.baseurl }}/images/illustrations/solution2.jpg)
 <br>
 
 ## 통합 모니터링 플랫폼
