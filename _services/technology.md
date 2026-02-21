@@ -6,7 +6,7 @@ featured_image: "images/tech-background.jpg" # 추후 고화질 기술 이미지
 weight: 1
 ---
 
-무플스는 버려지는 물리 에너지를 가치 있는 데이터로 바꿉니다. 충전이 필요 없는 무한 안전을 경험하세요
+> 무플스는 버려지는 물리 에너지를 가치 있는 데이터로 바꿉니다. 충전이 필요 없는 무한 안전을 경험하세요
 
 ## Zero-Maintenance Technology
 
