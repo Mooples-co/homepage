@@ -26,7 +26,7 @@ weight: 4
 - **골든타임 확보:** 사고 발생 시 즉각적인 위치 파악으로 구조를 위한 결정적인 시간을 확보합니다.
 
 <br>
-![무플스케어](images/illustrations/care2.jpg)
+![무플스케어]({{ site.baseurl }}/images/illustrations/care2.jpg)
 <br>
 
 ## 보행 데이터 기반의 헬스케어 확장
@@ -36,7 +36,7 @@ weight: 4
 - **낙상 사고 대응:** 갑작스러운 충격이나 쓰러짐 발생 시 위치 정보와 함께 즉시 구조 신호를 송출합니다.
 
 <br>
-![무플스케어](/images/illustrations/care1.jpg)
+![무플스케어]({{ site.baseurl }}/images/illustrations/care1.jpg)
 <br>
 
 ## 지자체 및 요양 시설 최적화 솔루션
