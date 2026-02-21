@@ -33,6 +33,17 @@ defaults:
       type: "team"
     values:
       layout: "team"
+# 일본어 서비스 설정
+  - scope:
+      path: "_services/jp"
+    values:
+      lang: "jp"
+  # 한국어 서비스 설정 (jp 폴더가 아닌 나머지)
+  - scope:
+      path: "_services"
+    values:
+      lang: "kr"
+
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
