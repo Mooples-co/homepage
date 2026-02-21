@@ -19,7 +19,7 @@ weight: 5
 - **내구성 설계:** 현장의 거친 환경과 반복적인 하중에도 견딜 수 있는 산업용 고내구성 압전 모듈을 탑재했습니다.
 
 <br>
-![무플스세이프티](/images/illustrations/safety1.jpg)
+![무플스세이프티]({{ site.baseurl }}/images/illustrations/safety1.jpg)
 <br>
 
 ## 실시간 위치 관제 및 위험 구역 관리
@@ -30,7 +30,7 @@ NB-IoT(저전력 광역 통신망) 기술을 통해 넓고 복잡한 작업 현�
 - **비상 긴급 구조:** 사고 발생 시 근로자의 마지막 위치를 정확히 파악하여 구조 골든타임을 확보합니다.
 
 <br>
-![무플스세이프티](/images/illustrations/safety2.jpg)
+![무플스세이프티]({{ site.baseurl }}/images/illustrations/safety2.jpg)
 <br>
 
 ## 데이터 기반의 지능형 안전 예방
