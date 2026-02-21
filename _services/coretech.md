@@ -6,7 +6,7 @@ featured_image: "images/tech-detail-main.jpg"
 weight: 2
 ---
 
-정밀 설계와 초저전력 전자 제어 기술의 결합으로 충전 없는 안전을 구현합니다
+> 정밀 설계와 초저전력 전자 제어 기술의 결합으로 충전 없는 안전을 구현합니다
 
 ## 하베스팅 메커니즘 (Energy Harvesting)
 무플스의 스마트 인솔은 보행 시 발생하는 지면 반력을 이용합니다. 
