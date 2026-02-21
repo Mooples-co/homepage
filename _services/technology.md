@@ -25,12 +25,16 @@ weight: 1
 - **압도적 효율:** 미세한 압력 변화에서도 전력을 생성하는 독자적인 회로 설계 기술
 
 <br>
+![스마트인솔](/images/illustrations/smartinsole1.jpg)
+<br>
 
 ## 초저전력 NB-IoT 통신
 자가발전으로 생산된 전력만으로 실시간 위치 데이터를 전송하기 위해 최첨단 저전력 통신 기술을 결합했습니다.
 - **NB-IoT:** 넓은 커버리지와 강력한 투과력으로 실내외 어디서든 위치 파악 가능
 - **Intelligent PMIC:** 생산된 에너지를 저장하고 데이터 전송에 최적화하여 분배하는 지능형 전력 관리
 
+<br>
+![스마트인솔](/images/illustrations/smartinsole3.jpg)
 <br>
 
 ## 끊임없는 확장
