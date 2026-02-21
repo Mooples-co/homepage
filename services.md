@@ -13,7 +13,7 @@ intro_image_hide_on_mobile: true
 무플스의 서비스는 단순히 위치를 추적하는 것을 넘어, **'충전이 필요 없는 지속 가능한 안전'**을 지향합니다. 독자적인 압전 에너지 하베스팅 기술과 초저전력 통신 기술을 결합하여, 기존 웨어러블 기기가 해결하지 못한 고질적인 문제들을 해결합니다.
 
 
-![인솔](/images/illustrations/service1.jpg)
+![인솔]({{ site.baseurl }}/images/illustrations/service1.jpg)
 <br>
 ---
 
@@ -24,7 +24,7 @@ intro_image_hide_on_mobile: true
 기계공학적 정밀 설계와 전자 제어 기술의 정수를 담았습니다. 사용자의 움직임에서 에너지를 추출하고, 이를 데이터화하여 가장 효율적인 방식으로 전송하는 무플스만의 원천 기술을 소개합니다.
 
 <br>
-![신발](/images/illustrations/service2.jpg)
+![신발]({{ site.baseurl }}/images/illustrations/service2.jpg)
 <br>
 
 ### <i class="fas fa-walking" style="color: #00AEAD;"></i> 무플스 케어 (Mooples Care)
