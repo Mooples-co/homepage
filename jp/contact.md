@@ -5,6 +5,7 @@ intro: "ムープルズの技術とビジョンに関するお問い合わせを
 featured_image: "images/contact-main.jpg"
 permalink: /jp/contact/
 menu: main_jp
+lang: jp
 ---
 
 ## 協業および投資に関するお問い合わせ
