@@ -1,6 +1,7 @@
 ---
 hero_title: "バッテリー充電不要のスマートインソール、ムープルズ"
 layout: home
+lang: jp
 hero_description: "自家発電技術で認知症患者と産業現場の作業員の安全を守ります"
 permalink: /jp/
 menu: main_jp
