@@ -7,6 +7,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 permalink: /jp/services/
 menu: main_jp
+lang: jp
 ---
 
 ## <i class="fas fa-lightbulb" style="color: #00AEAD;"></i> 歩みから始まる無限の安全 (Infinite Safety from Every Step)
