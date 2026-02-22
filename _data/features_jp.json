@@ -1,0 +1,29 @@
+[
+  {
+    "title": "投資・パートナーシップ",
+    "description": "ムープルズと共に、安全の未来を設計しましょう",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "技術協力",
+    "description": "圧電エネルギーハーベスティング技術の導入および提携に関するお問い合わせ",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "グローバル展開",
+    "description": "Global Partnership & Technical Inquiry",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
