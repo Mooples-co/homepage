@@ -1,5 +1,12 @@
 <div id="main-menu" class="main-menu">
-  {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
+  {% assign current_lang = include.lang | default: page.lang | default: "kr" %}
+  
+  {% if current_lang == "jp" %}
+    {% assign mainmenu = site.data.menus.main_jp | sort: 'weight' %}
+  {% else %}
+    {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
+  {% endif %}
+
   <ul>
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
