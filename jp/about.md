@@ -5,6 +5,7 @@ intro: "ムープルズは、動きの価値をデータへと変えるディー
 featured_image: "images/about-main.jpg"
 permalink: /jp/about/
 menu: main_jp
+lang: jp
 ---
 
 > **ムープルズは、動きの価値をデータへと変えるディープテック企業です。**
